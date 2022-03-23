@@ -1,4 +1,4 @@
-package SimpleAgent;
+package MBeanTest;
 
 import javax.management.ObjectName;
 import java.lang.management.ManagementFactory;

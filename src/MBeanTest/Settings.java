@@ -1,4 +1,4 @@
-package SimpleAgent;
+package MBeanTest;
 
 public class Settings implements SettingsMBean {
 

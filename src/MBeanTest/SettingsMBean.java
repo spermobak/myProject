@@ -1,4 +1,4 @@
-package SimpleAgent;
+package MBeanTest;
 
 public interface SettingsMBean {
      String getName();
