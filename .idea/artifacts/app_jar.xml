@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="app.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/app_jar</output-path>
+    <root id="archive" name="myProject.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="myProject" />
+      <element id="extracted-dir" path="$USER_HOME$/.jdks/jboss-javassist-javassist-rel_3_28_0_ga-4-g52629ee/jboss-javassist-javassist-52629ee/javassist.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
